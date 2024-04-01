@@ -545,3 +545,4 @@
 {"jsonrpc":"2.0","id":"\"1\"","result":629079}
 {"jsonrpc":"2.0","id":"\"1\"","result":629079}
 {"error":"{\"Error_GUID\":\"16989373790124045291\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:starknet_blockNumber,connectionType:POST},method:starknet_blockNumber}\"}"}
+{"error":"{\"Error_GUID\":\"4100690498128064718\",\"Error\":\"getSupportedApi jsonrpc failed {reason:api not supported {name:starknet_blockNumber,connectionType:POST},method:starknet_blockNumber}\"}"}
